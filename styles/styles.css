@@ -309,7 +309,7 @@ body {
 }
 
 .advantages-item {
-  width: 400px;
+  width: 33.3%;
   padding: 112.5px 85px;
   box-sizing: border-box;
   background-color: rgba(131, 179, 211, 0.2);
@@ -1501,6 +1501,10 @@ body {
   display: block;
   height: 212px;
   width: 300px;
+}
+
+.card-picture {
+  object-fit: contain;
 }
 
 .card-picture:hover {
