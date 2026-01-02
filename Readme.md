@@ -135,9 +135,9 @@ Simply open the HTML files in your browser or use a local server for the best ex
 # 📱 Browser Support  
 | Browser || Version || Status |  
 |---------|--------|---------|  
-| Chrome ||	90+	|| ✅ Fully supported |  
+| Chrome  ||	90+	|| ✅ Fully supported |  
 | Firefox	|| 88+ |	| ✅ Fully supported |  
-| Safari |	| 14+ ||	✅ Fully supported |  
+| Safari  |	| 14+ ||	✅ Fully supported |  
 
 # 🧪 Testing Checklist  
 •	All links are functional and lead to correct pages  
