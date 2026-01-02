@@ -95,65 +95,66 @@ cd sedona
 open index.html
 
 Local Development  
-No build process required - this is a static HTML/CSS project. Simply open the HTML files in your browser or use a local server for the best experience.  
+No build process required - this is a static HTML/CSS project.  
+Simply open the HTML files in your browser or use a local server for the best experience.    
 ```
 
-🎨 Design Implementation Details
-Layout Principles
-•	Centered Container: Fixed-width content area centered horizontally
-•	Shadow Effect: Subtle shadow on both sides of content area
-•	Typography: PT Sans with precise font sizes, weights, and line heights
-•	Color Scheme: Exact colors from style guide and mockups
-Interactive Elements
-•	Hover/Focus States: All interactive elements have proper visual feedback
-•	Form Validation: Client-side validation with meaningful error states
-•	Modal Windows: Smooth open/close transitions with overlay
-•	Range Slider: Custom-styled price filter with dual handles
-Performance Optimizations
-•	CSS Sprites: Combined icons into sprite sheets
-•	Font Optimization: Local font loading with fallback to Google Fonts
-•	Image Optimization: Compressed images without quality loss
+🎨 Design Implementation Details  
+Layout Principles  
+•	Centered Container: Fixed-width content area centered horizontally  
+•	Shadow Effect: Subtle shadow on both sides of content area  
+•	Typography: PT Sans with precise font sizes, weights, and line heights  
+•	Color Scheme: Exact colors from style guide and mockups  
+Interactive Elements  
+•	Hover/Focus States: All interactive elements have proper visual feedback  
+•	Form Validation: Client-side validation with meaningful error states  
+•	Modal Windows: Smooth open/close transitions with overlay  
+•	Range Slider: Custom-styled price filter with dual handles  
+Performance Optimizations  
+•	CSS Sprites: Combined icons into sprite sheets  
+•	Font Optimization: Local font loading with fallback to Google Fonts  
+•	Image Optimization: Compressed images without quality loss  
 
-🔍 Key Learning Outcomes
-Technical Skills Developed
-1.	Semantic HTML: Proper use of HTML elements for accessibility and SEO
-2.	CSS Mastery: Advanced selectors, positioning, and layout techniques
-3.	Pixel-Perfect Development: Precise implementation of design specifications
-4.	Cross-Browser Testing: Ensuring consistent experience across browsers
-5.	Form Handling: Validation, submission, and user feedback implementation
-Professional Practices
-•	Style Guide Compliance: Adherence to provided design specifications
-•	Code Organization: Clean, maintainable, and commented code
-•	Progressive Enhancement: Core functionality without JavaScript
-•	Accessibility Considerations: Semantic markup and ARIA labels
+🔍 Key Learning Outcomes  
+Technical Skills Developed  
+1.	Semantic HTML: Proper use of HTML elements for accessibility and SEO  
+2.	CSS Mastery: Advanced selectors, positioning, and layout techniques  
+3.	Pixel-Perfect Development: Precise implementation of design specifications  
+4.	Cross-Browser Testing: Ensuring consistent experience across browsers  
+5.	Form Handling: Validation, submission, and user feedback implementation  
+Professional Practices  
+•	Style Guide Compliance: Adherence to provided design specifications  
+•	Code Organization: Clean, maintainable, and commented code  
+•	Progressive Enhancement: Core functionality without JavaScript  
+•	Accessibility Considerations: Semantic markup and ARIA labels  
 
-📱 Browser Support
-Browser	Version	Status
-Chrome	90+	✅ Fully supported
-Firefox	88+	✅ Fully supported
-Safari	14+	✅ Fully supported
+📱 Browser Support  
+Browser	Version	Status  
+Chrome	90+	✅ Fully supported  
+Firefox	88+	✅ Fully supported  
+Safari	14+	✅ Fully supported  
 
-🧪 Testing Checklist
-•	All links are functional and lead to correct pages
-•	Forms validate input and submit properly
-•	Modal windows open/close correctly
-•	Interactive elements have proper hover/focus states
-•	Design matches mockups at 100% zoom
-•	Cross-browser consistency verified
-•	No console errors in browser DevTools
-•	HTML validation passes W3C standards
-•	CSS validation passes W3C standards
+🧪 Testing Checklist  
+•	All links are functional and lead to correct pages  
+•	Forms validate input and submit properly  
+•	Modal windows open/close correctly  
+•	Interactive elements have proper hover/focus states  
+•	Design matches mockups at 100% zoom  
+•	Cross-browser consistency verified  
+•	No console errors in browser DevTools  
+•	HTML validation passes W3C standards  
+•	CSS validation passes W3C standards  
 
-📄 Project Context
-This project was developed as the capstone project for a Bootcamp's "Professional HTML & CSS" course. It represents approximately 80 hours of focused development work, including:
-•	Design Analysis: Studying mockups and style guides
-•	Semantic Markup: Planning and implementing HTML structure
-•	Styling Implementation: CSS development with attention to detail
-•	Testing & Debugging: Cross-browser testing and issue resolution
-•	Code Review: Incorporating feedback from mentor reviews
+📄 Project Context  
+This project was developed as the capstone project for a Bootcamp's "Professional HTML & CSS" course. It represents approximately 80 hours of focused development work, including:  
+•	Design Analysis: Studying mockups and style guides  
+•	Semantic Markup: Planning and implementing HTML structure  
+•	Styling Implementation: CSS development with attention to detail  
+•	Testing & Debugging: Cross-browser testing and issue resolution  
+•	Code Review: Incorporating feedback from mentor reviews  
 
-👨‍💻 Author
-Student Software Developer
+👨‍💻 Author  
+Student Software Developer  
 
 
 ________________________________________
