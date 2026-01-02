@@ -31,7 +31,7 @@ Homepage Features
 Catalog Page Features  
 •	Breadcrumbs: Home icon linking to main page  
 •	Active States: "Hotels" link marked as current page  
-•	Filter System:  
+•	Filter System:      
 o	Form-based filtering with "Apply" button (posts to echo server)  
 o	"Reset" button returning form to initial state  
 o	Interactive range slider for price filtering  
