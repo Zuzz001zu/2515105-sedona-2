@@ -4,13 +4,13 @@ A responsive travel website for Sedona, Arizona, developed as the main project f
 Sedona is a two-page website (homepage + catalog) that showcases tourism services in Sedona, Arizona. The project emphasizes semantic HTML, accessible markup, and progressive enhancement principles.
 
 # Key Features  
-✅ Semantic HTML5 markup with proper document structure  
-✅ Pixel-perfect implementation of provided designs  
-✅ Cross-browser compatibility (Chrome, Firefox, Safari)  
-✅ Interactive elements with proper states and feedback   
-✅ Form validation with server submission handling  
-✅ Responsive typography using PT Sans font  
-✅ Shadow effect implementation around content area  
+✅ **Semantic HTML** markup with proper document structure  
+✅ **Pixel-perfect** implementation of provided designs  
+✅ **Cross-browser** compatibility (Chrome, Firefox, Safari)  
+✅ **Interactive elements** with proper states and feedback   
+✅ **Form validation** with server submission handling  
+✅ **Responsive typography** using PT Sans font  
+✅ **Shadow effect** implementation around content area  
 
 # 🎯 Technical Requirements Met  
 ## Layout & Design  
@@ -43,20 +43,20 @@ Sedona is a two-page website (homepage + catalog) that showcases tourism service
 
 # 🛠️ Technologies & Tools  
 ## Core Stack:  
-•	HTML - Semantic markup with proper document structure  
-•	CSS - Modern styling with flexbox/float layout  
-•	PT Sans Font - Typography as specified in design  
+•	**HTML** - Semantic markup with proper document structure  
+•	**CSS** - Modern styling with flexbox/float layout  
+•	**PT Sans Font** - Typography as specified in design  
   
 ## Development Tools:  
-•	Visual Studio Code - Primary code editor  
-•	Git & GitHub - Version control and deployment  
-•	Pixel Perfect - Chrome extension for design accuracy  
-•	Browser DevTools - Debugging and testing  
+•	**Visual Studio Code** - Primary code editor  
+•	**Git & GitHub** - Version control and deployment  
+•	**Pixel Perfect** - Chrome extension for design accuracy  
+•	**Browser DevTools** - Debugging and testing  
   
 ## Design Compliance:  
-•	Style Guide - Highest priority for UI states  
-•	Mockup Files - Adobe Photoshop designs provided  
-•	Cross-browser Testing - Chrome, Firefox, Safari  
+•	**Style Guide** - Highest priority for UI states  
+•	**Mockup Files** - Adobe Photoshop designs provided  
+•	**Cross-browser Testing** - Chrome, Firefox, Safari  
 
 # 📁 Project Structure  
 text  
@@ -102,29 +102,29 @@ Simply open the HTML files in your browser or use a local server for the best ex
 
 # 🎨 Design Implementation Details  
 ## Layout Principles  
-•	Centered Container: Fixed-width content area centered horizontally  
-•	Shadow Effect: Subtle shadow on both sides of content area  
-•	Typography: PT Sans with precise font sizes, weights, and line heights  
-•	Color Scheme: Exact colors from style guide and mockups  
+•	**Centered Container:** Fixed-width content area centered horizontally  
+•	**Shadow Effect:** Subtle shadow on both sides of content area  
+•	**Typography:** PT Sans with precise font sizes, weights, and line heights  
+•	**Color Scheme:** Exact colors from style guide and mockups  
   
 ## Interactive Elements  
-•	Hover/Focus States: All interactive elements have proper visual feedback  
-•	Form Validation: Client-side validation with meaningful error states  
-•	Modal Windows: Smooth open/close transitions with overlay  
-•	Range Slider: Custom-styled price filter with dual handles  
+•	**Hover/Focus States:** All interactive elements have proper visual feedback  
+•	**Form Validation:** Client-side validation with meaningful error states  
+•	**Modal Windows:** Smooth open/close transitions with overlay  
+•	**Range Slider:** Custom-styled price filter with dual handles  
   
 ## Performance Optimizations  
-•	CSS Sprites: Combined icons into sprite sheets  
-•	Font Optimization: Local font loading with fallback to Google Fonts  
-•	Image Optimization: Compressed images without quality loss  
+•	**CSS Sprites:** Combined icons into sprite sheets  
+•	**Font Optimization:** Local font loading with fallback to Google Fonts  
+•	**Image Optimization:** Compressed images without quality loss  
 
 # 🔍 Key Learning Outcomes  
 ## Technical Skills Developed  
-1.	Semantic HTML: Proper use of HTML elements for accessibility and SEO  
-2.	CSS Mastery: Advanced selectors, positioning, and layout techniques  
-3.	Pixel-Perfect Development: Precise implementation of design specifications  
-4.	Cross-Browser Testing: Ensuring consistent experience across browsers  
-5.	Form Handling: Validation, submission, and user feedback implementation
+1.	**Semantic HTML:** Proper use of HTML elements for accessibility and SEO  
+2.	**CSS Mastery:** Advanced selectors, positioning, and layout techniques  
+3.	**Pixel-Perfect Development:** Precise implementation of design specifications  
+4.	**Cross-Browser Testing:** Ensuring consistent experience across browsers  
+5.	**Form Handling:** Validation, submission, and user feedback implementation
      
 ## Professional Practices  
 •	Style Guide Compliance: Adherence to provided design specifications  
@@ -151,11 +151,11 @@ Safari	14+	✅ Fully supported
 
 # 📄 Project Context  
 This project was developed as the capstone project for a Bootcamp's "Professional HTML & CSS" course. It represents approximately 80 hours of focused development work, including:  
-•	Design Analysis: Studying mockups and style guides  
-•	Semantic Markup: Planning and implementing HTML structure  
-•	Styling Implementation: CSS development with attention to detail  
-•	Testing & Debugging: Cross-browser testing and issue resolution  
-•	Code Review: Incorporating feedback from mentor reviews  
+•	**Design Analysis:** Studying mockups and style guides  
+•	**Semantic Markup:** Planning and implementing HTML structure  
+•	**Styling Implementation:** CSS development with attention to detail  
+•	**Testing & Debugging:** Cross-browser testing and issue resolution  
+•	**Code Review:** Incorporating feedback from mentor reviews  
 
 # 👨‍💻 Author  
 Student Software Developer  
