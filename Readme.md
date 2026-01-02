@@ -32,13 +32,13 @@ Sedona is a two-page website (homepage + catalog) that showcases tourism service
 •	Breadcrumbs: Home icon linking to main page  
 •	Active States: "Hotels" link marked as current page  
 •	Filter System:        
-o	Form-based filtering with "Apply" button (posts to echo server)  
-o	"Reset" button returning form to initial state  
-o	Interactive range slider for price filtering  
+o	Form-based filtering with "Apply" button (posts to echo server)    
+o	"Reset" button returning form to initial state     
+o	Interactive range slider for price filtering    
 •	View Toggles: Tile/Card/List view with GET parameter implementation  
-•	Hotel Cards:  
-    o	"Add to favorites"/"In favorites" buttons (visual states)  
-    o	"More details" links for hotel pages  
+•	Hotel Cards:    
+o	"Add to favorites"/"In favorites" buttons (visual states)    
+o	"More details" links for hotel pages    
 •	Pagination: Active page state without hover/focus interactions  
 
 # 🛠️ Technologies & Tools  
@@ -133,10 +133,11 @@ Simply open the HTML files in your browser or use a local server for the best ex
 •	Accessibility Considerations: Semantic markup and ARIA labels  
 
 # 📱 Browser Support  
-Browser	Version	Status  
-Chrome	90+	✅ Fully supported  
-Firefox	88+	✅ Fully supported  
-Safari	14+	✅ Fully supported  
+| Browser || Version || Status |
+|---------|--------|---------|
+| Chrome ||	90+	|| ✅ Fully supported |  
+| Firefox	|| 88+ |	| ✅ Fully supported | 
+| Safari |	| 14+ ||	✅ Fully supported |  
 
 # 🧪 Testing Checklist  
 •	All links are functional and lead to correct pages  
