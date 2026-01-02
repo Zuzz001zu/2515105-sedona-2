@@ -75,14 +75,14 @@ sedona/
 │   └── modal.js         # Modal window functionality  
 └── README.md            # Project documentation  
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### Prerequisites
+ Prerequisites
 - Any modern web browser (Chrome, Firefox, Safari)
 - Text editor or IDE
 - Git (optional)
 
-### Installation
+ Installation
 
 ```bash
 # Clone repository
@@ -93,7 +93,7 @@ cd sedona
 
 # Open in browser (or use Live Server extension)
 open index.html
-text
+
 Local Development  
 No build process required - this is a static HTML/CSS project. Simply open the HTML files in your browser or use a local server for the best experience.  
 
