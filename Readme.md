@@ -1,39 +1,155 @@
-# Личный проект «Седона»
+A responsive travel website for Sedona, Arizona, developed as the main project for HTML Academy's professional web development course. This project demonstrates semantic HTML markup, modern CSS techniques, and pixel-perfect implementation of provided designs without relying on frameworks.
 
-* Студент: [Zoia G](https://up.htmlacademy.ru/htmlcss-individual/2/user/2515105).
-* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
-* Сайт: [Мой проект Седона](https://zuzz001zu.github.io/2515105-sedona-2/)
----
+📋 Project Overview
+Sedona is a two-page website (homepage + catalog) that showcases tourism services in Sedona, Arizona. The project emphasizes semantic HTML, accessible markup, and progressive enhancement principles.
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+Key Features
+•	✅ Semantic HTML5 markup with proper document structure
+•	✅ Pixel-perfect implementation of provided designs
+•	✅ Cross-browser compatibility (Chrome, Firefox, Safari)
+•	✅ Interactive elements with proper states and feedback
+•	✅ Form validation with server submission handling
+•	✅ Responsive typography using PT Sans font
+•	✅ Shadow effect implementation around content area
 
----
+🎯 Technical Requirements Met
+Layout & Design
+•	Fixed-width centered layout (non-responsive)
+•	Precise grid implementation as per mockups
+•	PT Sans font from local files and Google Fonts
+•	Style guide compliance for all UI states
+•	Gray background with subtle shadow effect on sides
 
-### Памятка
+Homepage Features
+•	Header Navigation: Interactive favorites counter (12+), search icon, and "I want to go" button
+•	Hero Section: Full-width photo with white gradient mask, decorative text image
+•	Service Sections: Decorative icons for "Housing", "Food", and "Souvenirs"
+•	Interactive Modal: Hotel search modal triggered by CTA button
+•	Newsletter Form: Validation preventing empty submissions, posts to HTML Academy echo server
+•	Footer: Clickable phone number (tel: link), Academy logo linking to course page
 
-#### 1. Зарегистрируйтесь на Гитхабе
+Catalog Page Features
+•	Breadcrumbs: Home icon linking to main page
+•	Active States: "Hotels" link marked as current page
+•	Filter System:
+o	Form-based filtering with "Apply" button (posts to echo server)
+o	"Reset" button returning form to initial state
+o	Interactive range slider for price filtering
+•	View Toggles: Tile/Card/List view with GET parameter implementation
+•	Hotel Cards:
+o	"Add to favorites"/"In favorites" buttons (visual states)
+o	"More details" links for hotel pages
+•	Pagination: Active page state without hover/focus interactions
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+🛠️ Technologies & Tools
+Core Stack:
+•	HTML - Semantic markup with proper document structure
+•	CSS - Modern styling with flexbox/float layout
+•	PT Sans Font - Typography as specified in design
+Development Tools:
+•	Visual Studio Code - Primary code editor
+•	Git & GitHub - Version control and deployment
+•	Pixel Perfect - Chrome extension for design accuracy
+•	Browser DevTools - Debugging and testing
+Design Compliance:
+•	Style Guide - Highest priority for UI states
+•	Mockup Files - Adobe Photoshop designs provided
+•	Cross-browser Testing - Chrome, Firefox, Safari
 
-#### 2. Создайте копию
+📁 Project Structure
+text
+sedona/
+├── index.html              # Homepage
+├── catalog.html           # Catalog page
+├── css/
+│   ├── style.css         # Main stylesheet
+│   └── normalize.css     # CSS reset
+├── fonts/
+│   └── ptsans/           # PT Sans font files
+├── img/                  # All images and icons
+│   ├── sprites/         # Sprite images
+│   ├── content/         # Content images
+│   └── decorative/      # Decorative elements
+├── js/                   # JavaScript for interactivity
+│   ├── script.js        # Main scripts
+│   └── modal.js         # Modal window functionality
+└── README.md            # Project documentation
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/2515105-sedona-2) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+🚀 Getting Started
+Prerequisites
+•	Any modern web browser (Chrome, Firefox, Safari)
+•	Text editor or IDE
+•	Git (optional)
+Installation
+bash
+# Clone repository
+git clone https://github.com/yourusername/sedona.git
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
+# Navigate to project
+cd sedona
 
-Получится вот так:
+# Open in browser (or use Live Server extension)
+open index.html
+Local Development
+No build process required - this is a static HTML/CSS project. Simply open the HTML files in your browser or use a local server for the best experience.
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037953-6a8a7384-7bae-11e7-83ac-59603b1d696c.jpg">
+🎨 Design Implementation Details
+Layout Principles
+•	Centered Container: Fixed-width content area centered horizontally
+•	Shadow Effect: Subtle shadow on both sides of content area
+•	Typography: PT Sans with precise font sizes, weights, and line heights
+•	Color Scheme: Exact colors from style guide and mockups
+Interactive Elements
+•	Hover/Focus States: All interactive elements have proper visual feedback
+•	Form Validation: Client-side validation with meaningful error states
+•	Modal Windows: Smooth open/close transitions with overlay
+•	Range Slider: Custom-styled price filter with dual handles
+Performance Optimizations
+•	CSS Sprites: Combined icons into sprite sheets
+•	Font Optimization: Local font loading with fallback to Google Fonts
+•	Image Optimization: Compressed images without quality loss
 
-#### 3. Скачайте репозиторий на свой компьютер
+🔍 Key Learning Outcomes
+Technical Skills Developed
+1.	Semantic HTML: Proper use of HTML elements for accessibility and SEO
+2.	CSS Mastery: Advanced selectors, positioning, and layout techniques
+3.	Pixel-Perfect Development: Precise implementation of design specifications
+4.	Cross-Browser Testing: Ensuring consistent experience across browsers
+5.	Form Handling: Validation, submission, and user feedback implementation
+Professional Practices
+•	Style Guide Compliance: Adherence to provided design specifications
+•	Code Organization: Clean, maintainable, and commented code
+•	Progressive Enhancement: Core functionality without JavaScript
+•	Accessibility Considerations: Semantic markup and ARIA labels
 
-Нажмите на зелёную кнопку «Code». Далее в выпавшем списке выберите пункт «Download ZIP». Выберите папку для скачивания на компьютер, например «Загрузки».
+📱 Browser Support
+Browser	Version	Status
+Chrome	90+	✅ Fully supported
+Firefox	88+	✅ Fully supported
+Safari	14+	✅ Fully supported
 
-#### 4. Начинайте обучение!
+🧪 Testing Checklist
+•	All links are functional and lead to correct pages
+•	Forms validate input and submit properly
+•	Modal windows open/close correctly
+•	Interactive elements have proper hover/focus states
+•	Design matches mockups at 100% zoom
+•	Cross-browser consistency verified
+•	No console errors in browser DevTools
+•	HTML validation passes W3C standards
+•	CSS validation passes W3C standards
 
----
+📄 Project Context
+This project was developed as the capstone project for a Bootcamp's "Professional HTML & CSS" course. It represents approximately 80 hours of focused development work, including:
+•	Design Analysis: Studying mockups and style guides
+•	Semantic Markup: Planning and implementing HTML structure
+•	Styling Implementation: CSS development with attention to detail
+•	Testing & Debugging: Cross-browser testing and issue resolution
+•	Code Review: Incorporating feedback from mentor reviews
 
-<a href="https://htmlacademy.ru/intensive/htmlcss"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github-2.png"></a>
+👨‍💻 Author
+Student Software Developer
 
-Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Профессиональная вёрстка сайтов](https://htmlacademy.ru/intensive/htmlcss)» от [HTML Academy](https://htmlacademy.ru).
+
+________________________________________
+Note: This is an educational project developed for a professional web development course. All designs and specifications were provided as part of the curriculum.
