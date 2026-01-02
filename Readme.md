@@ -1,4 +1,4 @@
-A responsive travel website for Sedona, Arizona, developed as the main project for HTML Academy's professional web development course. This project demonstrates semantic HTML markup, modern CSS techniques, and pixel-perfect implementation of provided designs without relying on frameworks.
+A responsive travel website for Sedona, Arizona, developed as the main project for Bootcamp's professional web development course. This project demonstrates semantic HTML markup, modern CSS techniques, and pixel-perfect implementation of provided designs without relying on frameworks.
 
 # 📋 Project Overview  
 Sedona is a two-page website (homepage + catalog) that showcases tourism services in Sedona, Arizona. The project emphasizes semantic HTML, accessible markup, and progressive enhancement principles.
