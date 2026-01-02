@@ -47,13 +47,13 @@ Sedona is a two-page website (homepage + catalog) that showcases tourism service
 •	CSS - Modern styling with flexbox/float layout  
 •	PT Sans Font - Typography as specified in design  
   
-# Development Tools:  
+## Development Tools:  
 •	Visual Studio Code - Primary code editor  
 •	Git & GitHub - Version control and deployment  
 •	Pixel Perfect - Chrome extension for design accuracy  
 •	Browser DevTools - Debugging and testing  
   
-# Design Compliance:  
+## Design Compliance:  
 •	Style Guide - Highest priority for UI states  
 •	Mockup Files - Adobe Photoshop designs provided  
 •	Cross-browser Testing - Chrome, Firefox, Safari  
