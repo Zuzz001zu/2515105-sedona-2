@@ -1,16 +1,16 @@
 A responsive travel website for Sedona, Arizona, developed as the main project for HTML Academy's professional web development course. This project demonstrates semantic HTML markup, modern CSS techniques, and pixel-perfect implementation of provided designs without relying on frameworks.
 
-📋 Project Overview
+📋 Project Overview  
 Sedona is a two-page website (homepage + catalog) that showcases tourism services in Sedona, Arizona. The project emphasizes semantic HTML, accessible markup, and progressive enhancement principles.
 
-Key Features
-•	✅ Semantic HTML5 markup with proper document structure
-•	✅ Pixel-perfect implementation of provided designs
-•	✅ Cross-browser compatibility (Chrome, Firefox, Safari)
-•	✅ Interactive elements with proper states and feedback
-•	✅ Form validation with server submission handling
-•	✅ Responsive typography using PT Sans font
-•	✅ Shadow effect implementation around content area
+Key Features  
+•	✅ Semantic HTML5 markup with proper document structure  
+•	✅ Pixel-perfect implementation of provided designs  
+•	✅ Cross-browser compatibility (Chrome, Firefox, Safari)  
+•	✅ Interactive elements with proper states and feedback   
+•	✅ Form validation with server submission handling  
+•	✅ Responsive typography using PT Sans font  
+•	✅ Shadow effect implementation around content area  
 
 🎯 Technical Requirements Met
 Layout & Design
