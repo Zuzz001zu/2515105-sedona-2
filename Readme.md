@@ -32,13 +32,13 @@ Catalog Page Features
 •	Breadcrumbs: Home icon linking to main page  
 •	Active States: "Hotels" link marked as current page  
 •	Filter System:      
-      o	Form-based filtering with "Apply" button (posts to echo server)  
-      o	"Reset" button returning form to initial state  
-      o	Interactive range slider for price filtering  
+    o	Form-based filtering with "Apply" button (posts to echo server)  
+    o	"Reset" button returning form to initial state  
+    o	Interactive range slider for price filtering  
 •	View Toggles: Tile/Card/List view with GET parameter implementation  
 •	Hotel Cards:  
-o	"Add to favorites"/"In favorites" buttons (visual states)  
-o	"More details" links for hotel pages  
+    o	"Add to favorites"/"In favorites" buttons (visual states)  
+    o	"More details" links for hotel pages  
 •	Pagination: Active page state without hover/focus interactions  
 
 🛠️ Technologies & Tools  
@@ -46,11 +46,13 @@ Core Stack:
 •	HTML - Semantic markup with proper document structure  
 •	CSS - Modern styling with flexbox/float layout  
 •	PT Sans Font - Typography as specified in design  
+  
 Development Tools:  
 •	Visual Studio Code - Primary code editor  
 •	Git & GitHub - Version control and deployment  
 •	Pixel Perfect - Chrome extension for design accuracy  
 •	Browser DevTools - Debugging and testing  
+  
 Design Compliance:  
 •	Style Guide - Highest priority for UI states  
 •	Mockup Files - Adobe Photoshop designs provided  
@@ -100,16 +102,19 @@ Simply open the HTML files in your browser or use a local server for the best ex
 ```
 
 🎨 Design Implementation Details  
+  
 Layout Principles  
 •	Centered Container: Fixed-width content area centered horizontally  
 •	Shadow Effect: Subtle shadow on both sides of content area  
 •	Typography: PT Sans with precise font sizes, weights, and line heights  
 •	Color Scheme: Exact colors from style guide and mockups  
+  
 Interactive Elements  
 •	Hover/Focus States: All interactive elements have proper visual feedback  
 •	Form Validation: Client-side validation with meaningful error states  
 •	Modal Windows: Smooth open/close transitions with overlay  
 •	Range Slider: Custom-styled price filter with dual handles  
+  
 Performance Optimizations  
 •	CSS Sprites: Combined icons into sprite sheets  
 •	Font Optimization: Local font loading with fallback to Google Fonts  
