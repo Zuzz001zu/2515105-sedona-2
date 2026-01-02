@@ -93,6 +93,7 @@ cd sedona
 
 # Open in browser (or use Live Server extension)
 open index.html
+text
 Local Development  
 No build process required - this is a static HTML/CSS project. Simply open the HTML files in your browser or use a local server for the best experience.  
 
