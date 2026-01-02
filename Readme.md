@@ -31,10 +31,10 @@ Sedona is a two-page website (homepage + catalog) that showcases tourism service
 # Catalog Page Features  
 •	Breadcrumbs: Home icon linking to main page  
 •	Active States: "Hotels" link marked as current page  
-•	Filter System:      
-    o	Form-based filtering with "Apply" button (posts to echo server)  
-    o	"Reset" button returning form to initial state  
-    o	Interactive range slider for price filtering  
+•	Filter System:        
+o	Form-based filtering with "Apply" button (posts to echo server)  
+o	"Reset" button returning form to initial state  
+o	Interactive range slider for price filtering  
 •	View Toggles: Tile/Card/List view with GET parameter implementation  
 •	Hotel Cards:  
     o	"Add to favorites"/"In favorites" buttons (visual states)  
