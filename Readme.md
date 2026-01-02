@@ -4,94 +4,94 @@ A responsive travel website for Sedona, Arizona, developed as the main project f
 Sedona is a two-page website (homepage + catalog) that showcases tourism services in Sedona, Arizona. The project emphasizes semantic HTML, accessible markup, and progressive enhancement principles.
 
 Key Features  
-•	✅ Semantic HTML5 markup with proper document structure  
-•	✅ Pixel-perfect implementation of provided designs  
-•	✅ Cross-browser compatibility (Chrome, Firefox, Safari)  
-•	✅ Interactive elements with proper states and feedback   
-•	✅ Form validation with server submission handling  
-•	✅ Responsive typography using PT Sans font  
-•	✅ Shadow effect implementation around content area  
+✅ Semantic HTML5 markup with proper document structure  
+✅ Pixel-perfect implementation of provided designs  
+✅ Cross-browser compatibility (Chrome, Firefox, Safari)  
+✅ Interactive elements with proper states and feedback   
+✅ Form validation with server submission handling  
+✅ Responsive typography using PT Sans font  
+✅ Shadow effect implementation around content area  
 
-🎯 Technical Requirements Met
-Layout & Design
-•	Fixed-width centered layout (non-responsive)
-•	Precise grid implementation as per mockups
-•	PT Sans font from local files and Google Fonts
-•	Style guide compliance for all UI states
-•	Gray background with subtle shadow effect on sides
+🎯 Technical Requirements Met  
+Layout & Design  
+•	Fixed-width centered layout (non-responsive)  
+•	Precise grid implementation as per mockups  
+•	PT Sans font from local files and Google Fonts  
+•	Style guide compliance for all UI states  
+•	Gray background with subtle shadow effect on sides  
 
-Homepage Features
-•	Header Navigation: Interactive favorites counter (12+), search icon, and "I want to go" button
-•	Hero Section: Full-width photo with white gradient mask, decorative text image
-•	Service Sections: Decorative icons for "Housing", "Food", and "Souvenirs"
-•	Interactive Modal: Hotel search modal triggered by CTA button
-•	Newsletter Form: Validation preventing empty submissions, posts to HTML Academy echo server
-•	Footer: Clickable phone number (tel: link), Academy logo linking to course page
+Homepage Features  
+•	Header Navigation: Interactive favorites counter (12+), search icon, and "I want to go" button  
+•	Hero Section: Full-width photo with white gradient mask, decorative text image  
+•	Service Sections: Decorative icons for "Housing", "Food", and "Souvenirs"  
+•	Interactive Modal: Hotel search modal triggered by CTA button  
+•	Newsletter Form: Validation preventing empty submissions, posts to HTML Academy echo server  
+•	Footer: Clickable phone number (tel: link), Academy logo linking to course page  
 
-Catalog Page Features
-•	Breadcrumbs: Home icon linking to main page
-•	Active States: "Hotels" link marked as current page
-•	Filter System:
-o	Form-based filtering with "Apply" button (posts to echo server)
-o	"Reset" button returning form to initial state
-o	Interactive range slider for price filtering
-•	View Toggles: Tile/Card/List view with GET parameter implementation
-•	Hotel Cards:
-o	"Add to favorites"/"In favorites" buttons (visual states)
-o	"More details" links for hotel pages
-•	Pagination: Active page state without hover/focus interactions
+Catalog Page Features  
+•	Breadcrumbs: Home icon linking to main page  
+•	Active States: "Hotels" link marked as current page  
+•	Filter System:  
+o	Form-based filtering with "Apply" button (posts to echo server)  
+o	"Reset" button returning form to initial state  
+o	Interactive range slider for price filtering  
+•	View Toggles: Tile/Card/List view with GET parameter implementation  
+•	Hotel Cards:  
+o	"Add to favorites"/"In favorites" buttons (visual states)  
+o	"More details" links for hotel pages  
+•	Pagination: Active page state without hover/focus interactions  
 
-🛠️ Technologies & Tools
-Core Stack:
-•	HTML - Semantic markup with proper document structure
-•	CSS - Modern styling with flexbox/float layout
-•	PT Sans Font - Typography as specified in design
-Development Tools:
-•	Visual Studio Code - Primary code editor
-•	Git & GitHub - Version control and deployment
-•	Pixel Perfect - Chrome extension for design accuracy
-•	Browser DevTools - Debugging and testing
-Design Compliance:
-•	Style Guide - Highest priority for UI states
-•	Mockup Files - Adobe Photoshop designs provided
-•	Cross-browser Testing - Chrome, Firefox, Safari
+🛠️ Technologies & Tools  
+Core Stack:  
+•	HTML - Semantic markup with proper document structure  
+•	CSS - Modern styling with flexbox/float layout  
+•	PT Sans Font - Typography as specified in design  
+Development Tools:  
+•	Visual Studio Code - Primary code editor  
+•	Git & GitHub - Version control and deployment  
+•	Pixel Perfect - Chrome extension for design accuracy  
+•	Browser DevTools - Debugging and testing  
+Design Compliance:  
+•	Style Guide - Highest priority for UI states  
+•	Mockup Files - Adobe Photoshop designs provided  
+•	Cross-browser Testing - Chrome, Firefox, Safari  
 
-📁 Project Structure
-text
-sedona/
-├── index.html              # Homepage
-├── catalog.html           # Catalog page
-├── css/
-│   ├── style.css         # Main stylesheet
-│   └── normalize.css     # CSS reset
-├── fonts/
-│   └── ptsans/           # PT Sans font files
-├── img/                  # All images and icons
-│   ├── sprites/         # Sprite images
-│   ├── content/         # Content images
-│   └── decorative/      # Decorative elements
-├── js/                   # JavaScript for interactivity
-│   ├── script.js        # Main scripts
-│   └── modal.js         # Modal window functionality
-└── README.md            # Project documentation
+📁 Project Structure  
+text  
+sedona/  
+├── index.html              # Homepage  
+├── catalog.html           # Catalog page  
+├── css/  
+│   ├── style.css         # Main stylesheet  
+│   └── normalize.css     # CSS reset  
+├── fonts/  
+│   └── ptsans/           # PT Sans font files  
+├── img/                  # All images and icons  
+│   ├── sprites/         # Sprite images  
+│   ├── content/         # Content images  
+│   └── decorative/      # Decorative elements  
+├── js/                   # JavaScript for interactivity  
+│   ├── script.js        # Main scripts  
+│   └── modal.js         # Modal window functionality  
+└── README.md            # Project documentation  
 
-🚀 Getting Started
-Prerequisites
-•	Any modern web browser (Chrome, Firefox, Safari)
-•	Text editor or IDE
-•	Git (optional)
-Installation
-bash
-# Clone repository
-git clone https://github.com/yourusername/sedona.git
+🚀 Getting Started  
+Prerequisites  
+•	Any modern web browser (Chrome, Firefox, Safari)  
+•	Text editor or IDE  
+•	Git (optional)  
+Installation  
+bash  
+# Clone repository  
+git clone https://github.com/yourusername/sedona.git  
 
-# Navigate to project
-cd sedona
+# Navigate to project  
+cd sedona  
 
-# Open in browser (or use Live Server extension)
-open index.html
-Local Development
-No build process required - this is a static HTML/CSS project. Simply open the HTML files in your browser or use a local server for the best experience.
+# Open in browser (or use Live Server extension)  
+open index.html  
+Local Development  
+No build process required - this is a static HTML/CSS project. Simply open the HTML files in your browser or use a local server for the best experience.  
 
 🎨 Design Implementation Details
 Layout Principles
