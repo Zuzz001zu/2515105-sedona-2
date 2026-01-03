@@ -154,7 +154,9 @@ Simply open the HTML files in your browser or use a local server for the best ex
 •	CSS validation passes W3C standards  
 
 ## 📄 Project Context  
+
 This project was developed as the capstone project for a Bootcamp's "Professional HTML & CSS" course. It represents approximately 80 hours of focused development work, including:  
+
 •	**Design Analysis:** Studying mockups and style guides  
 •	**Semantic Markup:** Planning and implementing HTML structure  
 •	**Styling Implementation:** CSS development with attention to detail  
