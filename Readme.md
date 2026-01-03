@@ -3,7 +3,7 @@ A responsive travel website for Sedona, Arizona, developed as the main project f
 # 📋 Project Overview  
 Sedona is a two-page website (homepage + catalog) that showcases tourism services in Sedona, Arizona. The project emphasizes semantic HTML, accessible markup, and progressive enhancement principles.
 
-# Key Features  
+## Key Features  
 ✅ **Semantic HTML** markup with proper document structure  
 ✅ **Pixel-perfect** implementation of provided designs  
 ✅ **Cross-browser** compatibility (Chrome, Firefox, Safari)  
