@@ -26,7 +26,7 @@ Sedona is a two-page website (homepage + catalog) that showcases tourism service
 •	Hero Section: Full-width photo with white gradient mask, decorative text image  
 •	Service Sections: Decorative icons for "Housing", "Food", and "Souvenirs"  
 •	Interactive Modal: Hotel search modal triggered by CTA button  
-•	Newsletter Form: Validation preventing empty submissions, posts to HTML Academy echo server  
+•	Newsletter Form: Validation preventing empty submissions, posts to Bootcamp echo server  
 •	Footer: Clickable phone number (tel: link), Academy logo linking to course page  
 
 ### Catalog Page Features  
