@@ -59,23 +59,25 @@ Sedona is a two-page website (homepage + catalog) that showcases tourism service
 •	**Cross-browser Testing** - Chrome, Firefox, Safari  
 
 # 📁 Project Structure  
+<pre>
 text  
 sedona/  
-├── index.html              # Homepage  
-├── catalog.html           # Catalog page  
+├── index.html           # Homepage  
+├── catalog.html         # Catalog page  
 ├── css/  
-│   ├── style.css         # Main stylesheet  
-│   └── normalize.css     # CSS reset  
+│   ├── style.css        # Main stylesheet  
+│   └── normalize.css    # CSS reset  
 ├── fonts/  
-│   └── ptsans/           # PT Sans font files  
-├── img/                  # All images and icons  
+│   └── ptsans/          # PT Sans font files  
+├── img/                 # All images and icons  
 │   ├── sprites/         # Sprite images  
 │   ├── content/         # Content images  
 │   └── decorative/      # Decorative elements  
-├── js/                   # JavaScript for interactivity  
+├── js/                  # JavaScript for interactivity  
 │   ├── script.js        # Main scripts  
 │   └── modal.js         # Modal window functionality  
 └── README.md            # Project documentation  
+</pre>
 
 # 🚀 Getting Started
 ## Prerequisites
