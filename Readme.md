@@ -20,7 +20,7 @@ Sedona is a two-page website (homepage + catalog) that showcases tourism service
 •	Style guide compliance for all UI states  
 •	Gray background with subtle shadow effect on sides  
 
-# Homepage Features  
+## Homepage Features  
 •	Header Navigation: Interactive favorites counter (12+), search icon, and "I want to go" button  
 •	Hero Section: Full-width photo with white gradient mask, decorative text image  
 •	Service Sections: Decorative icons for "Housing", "Food", and "Souvenirs"  
@@ -28,7 +28,7 @@ Sedona is a two-page website (homepage + catalog) that showcases tourism service
 •	Newsletter Form: Validation preventing empty submissions, posts to HTML Academy echo server  
 •	Footer: Clickable phone number (tel: link), Academy logo linking to course page  
 
-# Catalog Page Features  
+## Catalog Page Features  
 •	Breadcrumbs: Home icon linking to main page  
 •	Active States: "Hotels" link marked as current page  
 •	Filter System:        
